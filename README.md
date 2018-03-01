@@ -1,2 +1,0 @@
-# Lintcode
-# Lintcode
